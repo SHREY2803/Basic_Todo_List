@@ -3,7 +3,7 @@ import "./Header.css"
 
 const Header = () => {
   return (
-    <nav>Header</nav>
+    <nav>To Track my Daily Tasks</nav>
   )
 }
 
